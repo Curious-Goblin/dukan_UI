@@ -48,10 +48,10 @@ function Main() {
 
   return (
     <div className="flex mb-2 pr-7">
-      <div className={`${isSidebarOpen ? 'block fixed' : 'hidden'} z-20 lg:block lg:fixed `}>
+      <div className={`${isSidebarOpen ? 'block fixed' : 'hidden'} z-40 lg:block lg:fixed `}>
         <SideBar />
       </div>
-      <div className={`${isSidebarOpen ? 'bg-black-500 opacity-50 ' : ''} w-full flex justify-between absolute`}>
+      <div className={` w-full flex justify-between absolute`}>
       {isSidebarOpen && (
           <div className={`fixed h-screen inset-0 bg-black bg-opacity-20 flex justify-center items-center z-20 lg:hidden `}>
           </div>
