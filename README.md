@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
    ```
-   The application will be available at `http://localhost:5176`.
+   The application will be available at `http://localhost:5173`.
 
 ## Live Link
 
