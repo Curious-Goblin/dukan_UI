@@ -44,4 +44,4 @@ To run this project locally, follow these steps:
 
 ## Dukan-Frontend
 
-![dukkan-app-ui](./src/assets/Thumbnail.gif) 
+![dukkan-app-ui](public/output.gif) 
