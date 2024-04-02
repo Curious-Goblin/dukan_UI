@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 ## Live Link
 
-[dukan-app-ui](https://dukan-app-ui.netlify.app/)
+[dukan-app-ui](https://dukan-ui.netlify.app/)
 
 
 ## Preview
